@@ -1,10 +1,11 @@
 ---
-title: "Sichuan University"
+title: "Teaching experience 1"
 collection: teaching
-permalink: [/SCU](https://www.scu.edu.cn/)
-venue: "B.A. in Journalism"
-date: 2017-09-01
-location: "Chengdu, China"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 Add more description
