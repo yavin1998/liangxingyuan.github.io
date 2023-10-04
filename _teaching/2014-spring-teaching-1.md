@@ -1,17 +1,21 @@
 ---
 title: "B.A. in Journalism"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Sichuan University, Department"
+date: 2017-09-01
+location: "Chengdu, China"
 ---
+
+Add more description
 
 B.A. in Journalism
 
 Heading 1
 ======
+
+test1111
 
 Heading 2
 ======
