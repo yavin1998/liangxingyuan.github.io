@@ -1,15 +1,13 @@
 ---
-title: "B.A. in Journalism"
+title: "Sichuan University"
 collection: teaching
-type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "Sichuan University, Department"
+venue: "B.A. in Journalism"
 date: 2017-09-01
 location: "Chengdu, China"
 ---
 
 Add more description
-
 B.A. in Journalism
 
 Heading 1
