@@ -1,7 +1,7 @@
 ---
 title: "Sichuan University"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: [/SCU](https://www.scu.edu.cn/)
 venue: "B.A. in Journalism"
 date: 2017-09-01
 location: "Chengdu, China"
@@ -13,7 +13,6 @@ B.A. in Journalism
 Heading 1
 ======
 
-test1111
 
 Heading 2
 ======
