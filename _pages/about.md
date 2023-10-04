@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my world! 
+# Welcome to my world! 
 
-I'm LIANG XINGYUAN, but you can call me Yavin. Even though computer science and webpage design were not my majors in university, I dedicated several days to learning how to code this personal website on GitHub by myself. I hope this website helps you get to know me better! 
+## I'm LIANG XINGYUAN, but you can call me Yavin. Even though computer science and webpage design were not my majors in university, I dedicated several days to learning how to code this personal website on GitHub by myself. I hope this website helps you get to know me better! 
 
 You can reach me through email or social meida on the left side.
 
