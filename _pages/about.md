@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my world! I'm LIANG XINGYUAN, but you can call me Yavin. Even though computer science and webpage design were not my majors in university, I dedicated several days to learning how to code this personal website on GitHub by myself. I hope this website helps you get to know me better!
+Welcome to my world! 
 
-You can reach me through email or social meida platform on the left side.
+I'm LIANG XINGYUAN, but you can call me Yavin. Even though computer science and webpage design were not my majors in university, I dedicated several days to learning how to code this personal website on GitHub by myself. I hope this website helps you get to know me better! You can reach me through email or social meida platform on the left side.
 
 
 EDUCATION
-======
+=======
 2022.09-2023.11
 
 M.A. in Journalism, THE CHINESE UNIVERSITY OF HONG KONG, HONG KONG SAR
