@@ -4,16 +4,16 @@ main:
   - title: "Education"
     url: /teaching/    
   
-  - title: "Working experience"
+  - title: "Work experience"
     url: /talks/    
 
-  - title: "Activities"
+  - title: "Activity"
     url: /portfolio/
     
-  - title: "Publications"
+  - title: "Publication"
     url: /Publicationsoooo/
         
-  - title: "Awards/Skills"
+  - title: "Award&Skill"
     url: /cv/
     
   - title: "Guide"
